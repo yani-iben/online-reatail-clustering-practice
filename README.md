@@ -1,1 +1,1 @@
-# online-reatail-clustering-practice
+# online-retail-clustering-practice
