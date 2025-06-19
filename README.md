@@ -1,12 +1,12 @@
 # Customer Segmentation with K-Means Clustering  
 **Using the Online Retail Dataset from UCI Machine Learning Repository**
 
-## 📊 Overview
+## Overview
 This project applies customer segmentation techniques on the **Online Retail dataset** provided by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail). By leveraging **exploratory data analysis**, **data cleaning**, **outlier detection**, and **K-Means clustering**, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - **Exploratory Data Analysis (EDA):** Visualized patterns in customer behavior, transaction trends, and purchasing frequency.
 - **Data Cleaning:** Removed null values, duplicate entries, and erroneous data to ensure high-quality inputs.
 - **Outlier Detection:** Identified and separated outlier customers to avoid skewing clustering results.
@@ -16,7 +16,7 @@ This project applies customer segmentation techniques on the **Online Retail dat
 
 ---
 
-## 📌 Dataset
+## Dataset
 - **Name:** Online Retail
 - **Source:** UCI Machine Learning Repository
 - **Records:** Transactions from a UK-based online retail store between 2010–2011.
@@ -25,7 +25,7 @@ This project applies customer segmentation techniques on the **Online Retail dat
 
 ---
 
-## 📈 Project Workflow
+## Project Workflow
 1. **Data Import & Initial Exploration**
 2. **Data Cleaning**
    - Removed rows with missing `CustomerID`s and non-positive `Quantity`
