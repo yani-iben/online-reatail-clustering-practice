@@ -45,7 +45,7 @@ This project applies customer segmentation techniques on the **Online Retail dat
 
 ---
 
-## 💡 Key Takeaways & Business Recommendations
+## Key Takeaways & Business Recommendations
 - **Segmented customers** into actionable groups, such as:
   - High-value loyal customers
   - At-risk or one-time buyers
@@ -57,7 +57,7 @@ This project applies customer segmentation techniques on the **Online Retail dat
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Python**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn**
@@ -65,4 +65,4 @@ This project applies customer segmentation techniques on the **Online Retail dat
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
